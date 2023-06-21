@@ -1,5 +1,0 @@
-flesh + flame = 8div
-watcher impale 2 = 1div
-paradoxica = 4div
-ashes = 25div
-progenesis = 20div
